@@ -1,4 +1,6 @@
 # StonksBot
+![demo](https://raw.githubusercontent.com/henry9836/StonksBot/main/docs/gif.gif)
+
 A simple and lightweight discord bot that uses google finance to query stocks
 
 ### Usage

@@ -1,7 +1,7 @@
 # StonksBot
 ![demo](https://raw.githubusercontent.com/henry9836/StonksBot/main/docs/gif.gif)
 
-A simple and lightweight discord bot that uses google finance to query stocks
+A simple and lightweight discord bot that uses google finance to query stocks built by Henry Oliver
 
 ### Usage
 Type `$` followed by a stock e.g ```$NYSE:GME```
@@ -16,6 +16,6 @@ $ pip3 install -r requirements.txt
 $ sudo apt install firefox-geckodriver
 ```
 
-!!! This bot uses selenium and thus will require the firefox webdriver this can be downloaded from [here](https://github.com/mozilla/geckodriver/release) and you will also need to download FireFox so that the driver will work !!!
+#### !!! This bot uses selenium and thus will require the firefox webdriver this can be downloaded from [here](https://github.com/mozilla/geckodriver/release) and you will also need to download FireFox so that the driver will work !!!
 
-You will need to setup a access token for the bot to work
+##### You will need to setup a access token for the bot to work

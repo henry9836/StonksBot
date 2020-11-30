@@ -9,7 +9,7 @@ Type $ followed by a stock e.g ```$NYSE:GME```
 ```
 $ git clone https://github.com/henry9836/StonksBot.git 
 $ cd StonksBot
-$ python3 
+$ pip install -r requirements.txt
 ```
 
 This bot uses selenium and thus will require the firefox webdriver this can be downloaded from [here](https://github.com/mozilla/geckodriver/release) and you will also need to download FireFox so that the driver will work.

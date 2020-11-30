@@ -4,7 +4,7 @@
 A simple and lightweight discord bot that uses google finance to query stocks
 
 ### Usage
-Type $ followed by a stock e.g ```$NYSE:GME```
+Type `$` followed by a stock e.g ```$NYSE:GME```
 
 ### Installation
 

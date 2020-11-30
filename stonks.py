@@ -14,13 +14,8 @@ class MyClient(discord.Client):
         print('Stonk bot standing by...')
 
     async def on_message(self, message):
-        print('Message from {0.author}: {0.content}'.format(message))
-        if message.content.startswith('$ping'):
-            await message.channel.send('Pong!')
-        elif message.content.startswith('$shut'):
-            await message.channel.send('shutting down...')
-            exit()
-        elif message.content.startswith('$'):
+        #print('Message from {0.author}: {0.content}'.format(message))
+        if message.content.startswith('$'):
             print(":P stonk")
             print(message.content)
             param = message.content[1:]
